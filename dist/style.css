@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #faf9f8;
+}
+.hero-text {
+    font-family: 'Playfair Display', serif;
+}
+.headtext{
+    font-family: "Tenor Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 5px;
+}
+.text{
+    font-family: "Tenor Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
